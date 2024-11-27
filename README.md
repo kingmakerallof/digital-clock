@@ -1,5 +1,5 @@
 # digital-clock
 
-<p> Digital Clock </p>
+<p> Digital Clock (Animation) </p>
 
 <img src="digital-clock.png" alt="digital-clock">
